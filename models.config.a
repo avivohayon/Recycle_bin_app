@@ -1,0 +1,8 @@
+model_config_list {
+ config {
+    name: 'recycle_model'
+    base_path: '/Recycle_bin_app/models'
+    model_platform: 'tensorflow'
+    model_version_policy: {all: {}}
+        }
+}
